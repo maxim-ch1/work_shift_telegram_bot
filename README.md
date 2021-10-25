@@ -5,7 +5,7 @@
 Доступные команды:
 
 /yesterday - Список вчерашних дежрных
-https://github.com/maxim-ch1/work_shift_telegram_bot/blob/main/screenshots/yesterday.png
+![](https://github.com/maxim-ch1/work_shift_telegram_bot/blob/main/screenshots/yesterday.png)
 /today - Список дежурных на сегодня
 /tomorrow - Список дежурных на завтра
 /week - Список дежурных по дням текущей недели
